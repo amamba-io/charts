@@ -5,8 +5,26 @@ entries:
       addon.kpanda.io/repo: addon
       addon.kpanda.io/source: addon
     apiVersion: v2
+    appVersion: 0.3.0
+    created: "2023-10-09T04:02:07.200548891Z"
+    description: jenkins charts of amamba.
+    digest: 09201faa580d66f84e0ac27248f1116ee9fa5f67afc7102de25dc8ca6a09f528
+    home: https://github.com/amamba-io/jenkins-agent
+    icon: https://mirrors.tuna.tsinghua.edu.cn/jenkins/art/jenkins-logo/logo.svg
+    keywords:
+    - jenkins
+    - ci
+    - cd
+    name: jenkins
+    urls:
+    - https://amamba-io.github.io/charts/jenkins-0.3.0.tgz
+    version: 0.3.0
+  - annotations:
+      addon.kpanda.io/repo: addon
+      addon.kpanda.io/source: addon
+    apiVersion: v2
     appVersion: 0.2.5
-    created: "2023-10-08T14:18:28.41487429Z"
+    created: "2023-10-09T04:02:07.198157559Z"
     description: jenkins charts of amamba.
     digest: 220abe6d71bb0cf5b9d7f5edafb39d0bed7e0004ffd2bf433870f33718e36024
     home: https://github.com/amamba-io/jenkins-agent
@@ -24,7 +42,7 @@ entries:
       addon.kpanda.io/source: addon
     apiVersion: v2
     appVersion: 0.2.4
-    created: "2023-10-08T14:18:28.412781678Z"
+    created: "2023-10-09T04:02:07.196150733Z"
     description: jenkins charts of amamba.
     digest: 19109a64ba67c9be74b0f01305238bf20c057f47cf01ec0992ecedfddb03bf7c
     home: https://github.com/amamba-io/jenkins-agent
@@ -42,7 +60,7 @@ entries:
       addon.kpanda.io/source: addon
     apiVersion: v2
     appVersion: 0.2.0-alpha.1
-    created: "2023-10-08T14:18:28.410676766Z"
+    created: "2023-10-09T04:02:07.194112906Z"
     description: jenkins charts of amamba.
     digest: e105d6eabe298b5904e83ef01e4556e7245b51ba5cab18558496f0c7dd012725
     home: https://github.com/amamba-io/jenkins-agent
@@ -60,7 +78,7 @@ entries:
       addon.kpanda.io/source: addon
     apiVersion: v2
     appVersion: 0.2.0-alpha.0
-    created: "2023-10-08T14:18:28.408115852Z"
+    created: "2023-10-09T04:02:07.191875977Z"
     description: jenkins charts of amamba.
     digest: a59bf83e9b3c2ccae5ad78d71959f973606251127b4f62f6f09d2692828a1e92
     home: https://github.com/amamba-io/jenkins-agent
@@ -73,4 +91,4 @@ entries:
     urls:
     - https://amamba-io.github.io/charts/jenkins-0.2.0-alpha.0.tgz
     version: 0.2.0-alpha.0
-generated: "2023-10-08T14:18:28.404442232Z"
+generated: "2023-10-09T04:02:07.18825383Z"
