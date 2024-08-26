@@ -6,7 +6,7 @@ entries:
       addon.kpanda.io/source: addon
     apiVersion: v2
     appVersion: 0.3.2
-    created: "2024-08-26T00:40:22.561844326Z"
+    created: "2024-08-26T01:21:53.792706867Z"
     description: jenkins charts of amamba.
     digest: 70e57b09b61cc3c3a987b18dc726686fa8c52c5938abdd9f1ea36644da264be1
     home: https://github.com/amamba-io/jenkins-agent
@@ -23,8 +23,26 @@ entries:
       addon.kpanda.io/repo: addon
       addon.kpanda.io/source: addon
     apiVersion: v2
+    appVersion: 0.3.2-6-g6761126a
+    created: "2024-08-26T01:21:53.791193229Z"
+    description: jenkins charts of amamba.
+    digest: e097f029390955736dfef6f65dbcc98fb8442c0fadbea49f999bc4413d88b218
+    home: https://github.com/amamba-io/jenkins-agent
+    icon: https://mirrors.tuna.tsinghua.edu.cn/jenkins/art/jenkins-logo/logo.svg
+    keywords:
+    - jenkins
+    - ci
+    - cd
+    name: jenkins
+    urls:
+    - https://amamba-io.github.io/charts/jenkins-0.3.2-6-g6761126a.tgz
+    version: 0.3.2-6-g6761126a
+  - annotations:
+      addon.kpanda.io/repo: addon
+      addon.kpanda.io/source: addon
+    apiVersion: v2
     appVersion: 0.3.2-6-g166be735
-    created: "2024-08-26T00:40:22.55948324Z"
+    created: "2024-08-26T01:21:53.788733423Z"
     description: jenkins charts of amamba.
     digest: c358907f0d95da77f5b1594640926f2195f26f71000628cb9b877fd2209668f0
     home: https://github.com/amamba-io/jenkins-agent
@@ -42,7 +60,7 @@ entries:
       addon.kpanda.io/source: addon
     apiVersion: v2
     appVersion: 0.3.1
-    created: "2024-08-26T00:40:22.557939903Z"
+    created: "2024-08-26T01:21:53.787191632Z"
     description: jenkins charts of amamba.
     digest: 97991d29e549f54d5b6023e1be8033ec561f2b4c3a547dd1c7743afdb7951426
     home: https://github.com/amamba-io/jenkins-agent
@@ -60,7 +78,7 @@ entries:
       addon.kpanda.io/source: addon
     apiVersion: v2
     appVersion: 0.3.0
-    created: "2024-08-26T00:40:22.556420882Z"
+    created: "2024-08-26T01:21:53.785720724Z"
     description: jenkins charts of amamba.
     digest: bbd36d86cf9d4ff9da7be56ef70761a2fdcc992d79835f19b71823ac3ba46bce
     home: https://github.com/amamba-io/jenkins-agent
@@ -78,7 +96,7 @@ entries:
       addon.kpanda.io/source: addon
     apiVersion: v2
     appVersion: 0.2.5
-    created: "2024-08-26T00:40:22.554851327Z"
+    created: "2024-08-26T01:21:53.784168203Z"
     description: jenkins charts of amamba.
     digest: 220abe6d71bb0cf5b9d7f5edafb39d0bed7e0004ffd2bf433870f33718e36024
     home: https://github.com/amamba-io/jenkins-agent
@@ -96,7 +114,7 @@ entries:
       addon.kpanda.io/source: addon
     apiVersion: v2
     appVersion: 0.2.4
-    created: "2024-08-26T00:40:22.552554892Z"
+    created: "2024-08-26T01:21:53.782632363Z"
     description: jenkins charts of amamba.
     digest: 19109a64ba67c9be74b0f01305238bf20c057f47cf01ec0992ecedfddb03bf7c
     home: https://github.com/amamba-io/jenkins-agent
@@ -114,7 +132,7 @@ entries:
       addon.kpanda.io/source: addon
     apiVersion: v2
     appVersion: 0.2.0-alpha.1
-    created: "2024-08-26T00:40:22.550312879Z"
+    created: "2024-08-26T01:21:53.780218403Z"
     description: jenkins charts of amamba.
     digest: e105d6eabe298b5904e83ef01e4556e7245b51ba5cab18558496f0c7dd012725
     home: https://github.com/amamba-io/jenkins-agent
@@ -132,7 +150,7 @@ entries:
       addon.kpanda.io/source: addon
     apiVersion: v2
     appVersion: 0.2.0-alpha.0
-    created: "2024-08-26T00:40:22.548614161Z"
+    created: "2024-08-26T01:21:53.778701859Z"
     description: jenkins charts of amamba.
     digest: a59bf83e9b3c2ccae5ad78d71959f973606251127b4f62f6f09d2692828a1e92
     home: https://github.com/amamba-io/jenkins-agent
@@ -145,4 +163,4 @@ entries:
     urls:
     - https://amamba-io.github.io/charts/jenkins-0.2.0-alpha.0.tgz
     version: 0.2.0-alpha.0
-generated: "2024-08-26T00:40:22.546974835Z"
+generated: "2024-08-26T01:21:53.777030507Z"
